@@ -1,2 +1,2 @@
 # Project : Save the Planet
-Unity Project
+Genre : Rhythm Game
